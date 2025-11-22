@@ -5,7 +5,7 @@ Bem-vindo ao Explorador Cósmico, uma aplicação web de página única (Single 
 A interface foi cuidadosamente elaborada para simular uma viagem pelo espaço, com um fundo estrelado e animado que torna a experiência de navegação única.
 
 <!-- Substitua o link abaixo pelo link do seu projeto hospedado no GitHub Pages -->
-**[Clique aqui para ver a demonstração ao vivo!](https://github.com/samuel1602p/Explorador-Cosmico-Interativo/)**
+**[Clique aqui para ver a demonstração ao vivo!](https://samuel1602p.github.io/Explorador_cosmico/)**
 
 ## ✨ Funcionalidades Principais
 
