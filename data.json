@@ -1,0 +1,298 @@
+[
+  {
+    "nome": "Ceres",
+    "descricao": "O maior objeto no Cinturão de Asteroides principal e o único planeta anão localizado no Sistema Solar interior.",
+    "descoberta": "1801",
+    "link": "https://solarsystem.nasa.gov/planets/dwarf-planets/ceres/in-depth/",
+    "raio": "476.2 km",
+    "imagem": "img/ceres.jpg"
+  },
+  {
+    "nome": "Cometa Halley",
+    "descricao": "Um famoso cometa de período curto, visível da Terra a cada 75-76 anos. É um dos cometas mais bem documentados.",
+    "descoberta": "Observado desde 240 a.C.",
+    "raio": "Núcleo de ~5.5 km",
+    "link": "https://science.nasa.gov/solar-system/comets/halley/",
+    "imagem": "img/halley.jpg"
+  },
+  {
+    "nome": "Cometa Neowise (C/2020 F3)",
+    "descricao": "Um cometa de longo período que se tornou visível a olho nu em 2020, conhecido por suas duas caudas proeminentes.",
+    "descoberta": "2020",
+    "link": "https://www.nasa.gov/feature/goddard/2020/neowise-gives-us-a-celestial-treat",
+    "raio": "2.5 km",
+    "imagem": "img/Cometa Neowise.jpg"
+  },
+  {
+    "nome": "Cygnus X-1",
+    "descricao": "Uma fonte de raios X de alta energia e um dos primeiros objetos astronômicos amplamente aceitos como um buraco negro estelar.",
+    "descoberta": "1964",
+    "link": "https://www.nasa.gov/mission_pages/chandra/multimedia/cygnusx1.html",
+    "raio": "40 km",
+    "imagem": "img/Cygnus X-1.jpg"
+  },
+  {
+    "nome": "Encélado",
+    "descricao": "Pequena lua de Saturno que ejeta grandes plumas de vapor d'água e gelo, sugerindo um oceano subsuperficial salgado.",
+    "descoberta": "1789",
+    "link": "https://solarsystem.nasa.gov/moons/saturn-moons/enceladus/in-depth/",
+    "raio": "252.1 km",
+    "imagem": "img/Encélado.jpg"
+  },
+  {
+    "nome": "Éris",
+    "descricao": "Planeta anão transnetuniano, inicialmente considerado maior que Plutão. Sua descoberta levou à redefinição do que é um planeta.",
+    "descoberta": "2005",
+    "link": "https://solarsystem.nasa.gov/planets/dwarf-planets/eris/in-depth/",
+    "raio": "1.163 km",
+    "imagem": "img/Éris.jpg"
+  },
+  {
+    "nome": "Europa",
+    "descricao": "Lua de Júpiter famosa por sua superfície lisa e congelada, sob a qual se acredita existir um vasto oceano de água líquida.",
+    "descoberta": "1610",
+    "link": "https://solarsystem.nasa.gov/moons/jupiter-moons/europa/in-depth/",
+    "raio": "1.560 km",
+    "imagem": "img/Europa.jpg"
+  },
+  {
+    "nome": "Galáxia de Andrômeda (M31)",
+    "descricao": "A maior galáxia do Grupo Local e a mais próxima grande galáxia da Via Láctea, em rota de colisão.",
+    "descoberta": "964",
+    "link": "https://hubblesite.org/image/3441/news/40-andromeda-galaxy",
+    "raio": "110.000 anos-luz",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1200px-Andromeda_Galaxy_%28with_h-alpha%29.jpg"
+  },
+  {
+    "nome": "Galáxia do Sombrero (M104)",
+    "descricao": "Uma galáxia espiral não barrada de aparência peculiar, famosa por seu proeminente anel de poeira escura.",
+    "descoberta": "1781",
+    "link": "https://hubblesite.org/image/2242/news/40-sombrero-galaxy",
+    "raio": "25.000 anos-luz",
+    "imagem": "img/Galáxia do Sombrero (M104).jpg"
+  },
+  {
+    "nome": "Galáxia do Triângulo (M33)",
+    "descricao": "A terceira maior galáxia no Grupo Local, famosa por sua estrutura espiral bem definida e por ser ativa na formação estelar.",
+    "descoberta": "1654",
+    "link": "https://hubblesite.org/image/3321/news/40-triangle-galaxy",
+    "raio": "30.000 anos-luz",
+    "imagem": "img/Galáxia do Triângulo (M33).jpg"
+  },
+  {
+    "nome": "Ganimedes",
+    "descricao": "O maior satélite natural de Júpiter e de todo o Sistema Solar. É a única lua conhecida com seu próprio campo magnético.",
+    "descoberta": "1610",
+    "link": "https://solarsystem.nasa.gov/moons/jupiter-moons/ganymede/in-depth/",
+    "raio": "2.634 km",
+    "imagem": "img/ganimedes.jpg"
+  },
+  {
+    "nome": "Haumea",
+    "descricao": "Planeta anão transnetuniano, notável por seu formato elipsoidal alongado, sua rápida rotação e anéis.",
+    "descoberta": "2004",
+    "link": "https://solarsystem.nasa.gov/planets/dwarf-planets/haumea/in-depth/",
+    "raio": "816 km",
+    "imagem": "img/Haumea.jpg"
+  },
+  {
+    "nome": "Júpiter",
+    "descricao": "O maior planeta do Sistema Solar, um gigante gasoso conhecido por sua Grande Mancha Vermelha, uma tempestade persistente.",
+    "descoberta": "Conhecido desde a antiguidade",
+    "raio": "69.911 km",
+    "link": "https://science.nasa.gov/jupiter/",
+    "imagem": "img/jupiter.jpg"
+  },
+  {
+    "nome": "Kepler-186f",
+    "descricao": "O primeiro exoplaneta do tamanho da Terra descoberto na zona habitável de sua estrela, uma anã vermelha.",
+    "descoberta": "2014",
+    "link": "https://www.nasa.gov/press-release/nasa-s-kepler-discovers-first-earth-size-planet-in-the-habitable-zone-of-another-star",
+    "raio": "6.300 km",
+    "imagem": "img/Kepler-186f.jpg"
+  },
+  {
+    "nome": "Lua",
+    "descricao": "O único satélite natural da Terra. Sua paisagem é marcada por crateras de impacto e planícies vulcânicas escuras.",
+    "descoberta": "Conhecida desde a antiguidade",
+    "raio": "1.737,4 km",
+    "link": "https://science.nasa.gov/moon/",
+    "imagem": "img/lua.jpg"
+  },
+  {
+    "nome": "M87*",
+    "descricao": "Buraco negro supermassivo no centro da Galáxia Messier 87. Foi o primeiro buraco negro a ter sua sombra fotografada pelo EHT.",
+    "descoberta": "1918",
+    "link": "https://eventhorizontelescope.org/pt-br/a-descoberta",
+    "raio": "19 bilhões km",
+    "imagem": "img/M87.jpg"
+  },
+  {
+    "nome": "Makemake",
+    "descricao": "Planeta anão e um objeto transnetuniano, pertencente à classe dos plutinos, notável por sua cor avermelhada.",
+    "descoberta": "2005",
+    "link": "https://solarsystem.nasa.gov/planets/dwarf-planets/makemake/in-depth/",
+    "raio": "715 km",
+    "imagem": "img/Makemake.jpg"
+  },
+  {
+    "nome": "Marte",
+    "descricao": "O 'Planeta Vermelho' tem uma fina atmosfera e uma superfície rochosa com calotas polares, vulcões e cânions.",
+    "descoberta": "Conhecido desde a antiguidade",
+    "raio": "3.389,5 km",
+    "link": "https://science.nasa.gov/mars/",
+    "imagem": "img/marte.jpg"
+  },
+  {
+    "nome": "Mercúrio",
+    "descricao": "O menor planeta do Sistema Solar e o mais próximo do Sol. Sua superfície é coberta de crateras, semelhante à Lua.",
+    "descoberta": "Conhecido desde a antiguidade",
+    "raio": "2.439,7 km",
+    "link": "https://science.nasa.gov/mercury/",
+    "imagem": "img/mercurio.jpg"
+  },
+  {
+    "nome": "Nebulosa de Órion (M42)",
+    "descricao": "Uma das nebulosas de emissão mais brilhantes, sendo um grande berçário estelar visível a olho nu.",
+    "descoberta": "1610",
+    "link": "https://www.nasa.gov/feature/goddard/2017/hubble-reveals-intricacies-of-the-orion-nebula/",
+    "raio": "12 anos-luz",
+    "imagem": "img/Nebulosa de Órion (M42).jpg"
+  },
+  {
+    "nome": "Netuno",
+    "descricao": "O planeta mais distante do Sol, é um mundo escuro, frio e ventoso, com as tempestades mais fortes do Sistema Solar.",
+    "descoberta": "1846",
+    "raio": "24.622 km",
+    "link": "https://science.nasa.gov/neptune/",
+    "imagem": "img/netuno.jpg"
+  },
+  {
+    "nome": "Nuvem de Magalhães Grande (LMC)",
+    "descricao": "Uma galáxia anã satélite da Via Láctea e o quarto maior membro do Grupo Local de galáxias.",
+    "descoberta": "964",
+    "link": "https://www.nasa.gov/feature/goddard/2019/hubble-captures-a-stellar-nursery-in-the-large-magellanic-cloud/",
+    "raio": "7.000 anos-luz",
+    "imagem": "img/Nuvem de Magalhães Grande (LMC).jpg"
+  },
+  {
+    "nome": "Plêiades (M45)",
+    "descricao": "Um aglomerado estelar aberto de estrelas jovens, azuis e quentes, cercadas por uma nebulosidade de reflexão.",
+    "descoberta": "1610",
+    "link": "https://www.nasa.gov/image-feature/hubble-captures-the-starry-splendor-of-the-pleiades",
+    "raio": "8 anos-luz",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/1200px-Pleiades_large.jpg"
+  },
+  {
+    "nome": "Plutão",
+    "descricao": "Um planeta anão no Cinturão de Kuiper, uma região de corpos gelados além de Netuno. Possui montanhas, vales, planícies e crateras.",
+    "descoberta": "1930",
+    "raio": "1.188,3 km",
+    "link": "https://science.nasa.gov/dwarf-planets/pluto/",
+    "imagem": "img/plutao.jpg"
+  },
+  {
+    "nome": "Proxima Centauri b",
+    "descricao": "Exoplaneta que orbita a estrela Proxima Centauri, a anã vermelha mais próxima do nosso Sol. Está em sua zona habitável.",
+    "descoberta": "2016",
+    "link": "https://www.eso.org/public/brazil/news/eso1629/",
+    "raio": "6.800 km",
+    "imagem": "img/Proxima Centauri b.jpg"
+  },
+  {
+    "nome": "Púlsar do Caranguejo",
+    "descricao": "Uma estrela de nêutrons de rotação rápida localizada no centro da Nebulosa do Caranguejo, remanescente de uma supernova.",
+    "descoberta": "1968",
+    "link": "https://chandra.harvard.edu/photo/2019/crab_pulsar/",
+    "raio": "15 km",
+    "imagem": "img/Púlsar do Caranguejo.jpg"
+  },
+  {
+    "nome": "Quasar 3C 273",
+    "descricao": "Um quasar altamente luminoso localizado no centro de uma galáxia, notável por ser o primeiro quasar identificado.",
+    "descoberta": "1963",
+    "link": "https://chandra.harvard.edu/photo/2000/3c273/",
+    "raio": "2.000 anos-luz",
+    "imagem": "img/Quasar 3C 273.jpg"
+  },
+  {
+    "nome": "Sagitário A*",
+    "descricao": "Buraco negro supermassivo no centro da Via Láctea, a cerca de 26 mil anos-luz da Terra.",
+    "descoberta": "1974",
+    "link": "https://eventhorizontelescope.org/pt-br/node/148",
+    "raio": "22 milhões km",
+    "imagem": "img/sagitario.jpg"
+  },
+  {
+    "nome": "Saturno",
+    "descricao": "Famoso por seu impressionante sistema de anéis, Saturno é outro gigante gasoso composto principalmente de hidrogênio e hélio.",
+    "descoberta": "Conhecido desde a antiguidade",
+    "raio": "58.232 km",
+    "link": "https://science.nasa.gov/saturn/",
+    "imagem": "img/saturno.jpg"
+  },
+  {
+    "nome": "Sol",
+    "descricao": "A estrela central do Sistema Solar. É uma esfera quase perfeita de plasma quente, com um diâmetro de cerca de 1,39 milhão de quilômetros.",
+    "descoberta": "Conhecido desde a antiguidade",
+    "raio": "695.700 km",
+    "link": "https://science.nasa.gov/sun/",
+    "imagem": "img/sol.jpg"
+  },
+  {
+    "nome": "Terra",
+    "descricao": "Nosso lar, o único planeta conhecido por abrigar vida. Possui água líquida em sua superfície e uma atmosfera rica em oxigênio.",
+    "descoberta": "N/A",
+    "raio": "6.371 km",
+    "link": "https://science.nasa.gov/earth/",
+    "imagem": "img/terra.jpg"
+  },
+  {
+    "nome": "Titã",
+    "descricao": "O maior satélite natural de Saturno. É a única lua conhecida por ter uma atmosfera densa e corpos líquidos (lagos de metano) em sua superfície.",
+    "descoberta": "1655",
+    "link": "https://solarsystem.nasa.gov/moons/saturn-moons/titan/in-depth/",
+    "raio": "2.575 km",
+    "imagem": "img/titã.jpg"
+  },
+  {
+    "nome": "TRAPPIST-1e",
+    "descricao": "Um dos sete exoplanetas terrestres que orbitam a estrela anã ultra-fria TRAPPIST-1, localizado na zona habitável.",
+    "descoberta": "2017",
+    "link": "https://www.nasa.gov/press-release/nasa-telescope-reveals-largest-batch-of-earth-size-habitable-zone-planets",
+    "raio": "5.800 km",
+    "imagem": "img/TRAPPIST-1e.jpg"
+  },
+  {
+    "nome": "Tritão",
+    "descricao": "O maior satélite natural de Netuno, conhecido por sua órbita retrógrada e por possuir criovulcões ativos.",
+    "descoberta": "1846",
+    "link": "https://solarsystem.nasa.gov/moons/neptune-moons/triton/in-depth/",
+    "raio": "1.353 km",
+    "imagem": "img/Tritão.jpg"
+  },
+  {
+    "nome": "Urano",
+    "descricao": "Um gigante de gelo com uma inclinação axial extrema, fazendo com que ele 'role' em sua órbita. Possui anéis tênues.",
+    "descoberta": "1781",
+    "raio": "25.362 km",
+    "link": "https://science.nasa.gov/uranus/",
+    "imagem": "img/urano.jpg"
+  },
+  {
+    "nome": "Vênus",
+    "descricao": "Conhecido como a 'estrela da manhã' ou 'estrela da tarde', Vênus tem uma atmosfera densa e tóxica de dióxido de carbono.",
+    "descoberta": "Conhecido desde a antiguidade",
+    "raio": "6.051,8 km",
+    "link": "https://science.nasa.gov/venus/",
+    "imagem": "img/venus.jpg"
+  },
+  {
+    "nome": "Vesta",
+    "descricao": "O segundo objeto mais massivo do cinturão de asteroides, conhecido por possuir características geológicas únicas e uma crosta diferenciada.",
+    "descoberta": "1807",
+    "link": "https://solarsystem.nasa.gov/asteroids-comets-and-meteors/asteroids/vesta/in-depth/",
+    "raio": "262.8 km",
+    "imagem": "img/Vesta.jpg"
+  }
+]
